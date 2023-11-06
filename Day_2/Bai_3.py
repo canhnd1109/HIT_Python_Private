@@ -1,8 +1,9 @@
 line = "I'm HIT 14"
-num_lines = 20
+print(line*20)
+# num_lines = 20
 
-for _ in range(num_lines):
-    print(line)
+# for _ in range(num_lines):
+#     print(line)
 
 
 
