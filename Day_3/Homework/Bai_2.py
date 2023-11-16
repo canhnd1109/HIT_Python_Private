@@ -11,3 +11,4 @@ for i in range(n):
     s = input("nhập vào một số nguyên dương có từ 6 chữ số trở nên: "); 
      # Đảo chiều m số cuối cùng của từng số nguyên và in ra kết quả
     print(s[:-m] + s[:m - 1:-1])
+    print(s[:m] + s[:m - 1:-1])
