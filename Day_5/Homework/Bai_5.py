@@ -3,7 +3,6 @@ lucky_number = 11
 # Nhập set từ bàn phím
 set_numbers = set(input("Nhập các số vào set, cách nhau bằng dấu cách: ").split())
 
-
 # Kiểm tra và thêm số 11 vào set nếu chưa tồn tại
 if str(lucky_number) not in set_numbers:
     set_numbers.add(str(lucky_number))
