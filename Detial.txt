@@ -1,0 +1,16 @@
+Manufacturer: Tên hãng sản xuất của ô tô (vd: Acura, Audi, BMW).
+Model: Mô hình cụ thể của ô tô (vd: Integra, TL, A4).
+Sales_in_thousands: Số lượng bán ô tô (nghìn chiếc).
+__year_resale_value: Giá trị dự kiến khi bán lại sau một số năm.
+Vehicle_type: Loại phương tiện (vd: Passenger, Car).
+Price_in_thousands: Giá của ô tô (nghìn đô la).
+Engine_size: Dung tích động cơ của ô tô.
+Horsepower: Công suất của động cơ ô tô.
+Wheelbase: Chiều dài cơ sở của ô tô (khoảng cách giữa trục trước và trục sau).
+Width: Chiều rộng của ô tô.
+Length: Chiều dài của ô tô.
+Curb_weight: Trọng lượng của ô tô mà không có hành khách hoặc hành lý.
+Fuel_capacity: Dung tích bình xăng.
+Fuel_efficiency: Hiệu suất nhiên liệu của ô tô.
+Latest_Launch: Ngày sản phẩm mới nhất được tung ra thị trường.
+Power_perf_factor: Hệ số hiệu suất liên quan đến công suất.

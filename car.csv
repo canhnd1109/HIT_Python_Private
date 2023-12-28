@@ -1,0 +1,158 @@
+Manufacturer,Model,Vehicle_type,Engine_size,Horsepower,Wheelbase,Width,Length,Curb_weight,Fuel_capacity,Fuel_efficiency,Latest_Launch,Power_perf_factor,ID
+Acura,Integra,Passenger,1.8,140.0,101.2,67.3,172.4,2.639,13.2,28.0,2012-02-02,58.28014952,Acura_Integra
+Acura,TL,Passenger,3.2,225.0,108.1,70.3,192.9,3.517,17.2,25.0,2011-06-03,91.37077766,Acura_TL
+Acura,CL,Passenger,3.2,225.0,106.9,70.6,192.0,3.47,17.2,26.0,2012-01-04,,Acura_CL
+Acura,RL,Passenger,3.5,210.0,114.6,71.4,196.6,3.85,18.0,22.0,2011-03-10,91.38977933,Acura_RL
+Audi,A4,Passenger,1.8,150.0,102.6,68.2,178.0,2.998,16.4,27.0,2011-10-08,62.7776392,Audi_A4
+Audi,A6,Passenger,2.8,200.0,108.7,76.1,192.0,3.561,18.5,22.0,2011-08-09,84.56510502,Audi_A6
+Audi,A8,Passenger,4.2,310.0,113.0,74.0,198.2,3.902,23.7,21.0,2012-02-27,134.6568582,Audi_A8
+BMW,323i,Passenger,2.5,170.0,107.3,68.4,176.0,3.179,16.6,26.0,2011-06-28,71.19120671,BMW_323i
+BMW,328i,Passenger,2.8,193.0,107.3,68.5,176.0,3.197,16.6,24.0,2012-01-29,81.87706856,BMW_328i
+BMW,528i,Passenger,2.8,193.0,111.4,70.9,188.0,3.472,18.5,25.0,2011-04-04,83.9987238,BMW_528i
+Buick,Century,Passenger,3.1,175.0,109.0,72.7,194.6,3.368,17.5,25.0,2011-11-02,71.18145132,Buick_Century
+Buick,Regal,Passenger,3.8,240.0,109.0,72.7,196.2,3.543,17.5,23.0,2011-09-03,95.63670253,Buick_Regal
+Buick,Park Avenue,Passenger,3.8,205.0,113.8,74.7,206.8,3.778,18.5,24.0,2012-03-23,85.82840825,Buick_Park Avenue
+Buick,LeSabre,Passenger,3.8,205.0,112.2,73.5,200.0,3.591,17.5,25.0,2011-07-23,84.25452581,Buick_LeSabre
+Cadillac,DeVille,Passenger,4.6,275.0,115.3,74.5,207.2,3.978,18.5,22.0,2012-02-23,113.8545976,Cadillac_DeVille
+Cadillac,Seville,Passenger,4.6,275.0,112.2,75.0,201.0,,18.5,22.0,2011-04-29,115.6213578,Cadillac_Seville
+Cadillac,Eldorado,Passenger,4.6,275.0,108.0,75.5,200.6,3.843,19.0,22.0,2011-11-27,113.7658739,Cadillac_Eldorado
+Cadillac,Catera,Passenger,3.0,200.0,107.4,70.3,194.8,3.77,18.0,22.0,2011-09-28,83.48309358,Cadillac_Catera
+Cadillac,Escalade,Car,5.7,255.0,117.5,77.0,201.2,5.572,30.0,15.0,2012-04-17,109.5091165,Cadillac_Escalade
+Chevrolet,Cavalier,Passenger,2.2,115.0,104.1,67.9,180.9,2.676,14.3,27.0,2011-08-17,46.36334747,Chevrolet_Cavalier
+Chevrolet,Malibu,Passenger,3.1,170.0,107.0,69.4,190.4,3.051,15.0,25.0,2012-03-19,67.31446216,Chevrolet_Malibu
+Chevrolet,Lumina,Passenger,3.1,175.0,107.5,72.5,200.9,3.33,16.6,25.0,2011-05-24,69.9913956,Chevrolet_Lumina
+Chevrolet,Monte Carlo,Passenger,3.4,180.0,110.5,72.7,197.9,3.34,17.0,27.0,2011-12-22,72.03091719,Chevrolet_Monte Carlo
+Chevrolet,Camaro,Passenger,3.8,200.0,101.1,74.1,193.2,3.5,16.8,25.0,2011-10-23,81.11854333,Chevrolet_Camaro
+Chevrolet,Corvette,Passenger,5.7,345.0,104.5,73.6,179.7,3.21,19.1,22.0,2012-05-12,141.14115,Chevrolet_Corvette
+Chevrolet,Prizm,Passenger,1.8,120.0,97.1,66.7,174.3,2.398,13.2,33.0,2011-09-11,48.2976361,Chevrolet_Prizm
+Chevrolet,Metro,Passenger,1.0,55.0,93.1,62.6,149.4,1.895,10.3,45.0,2012-04-13,23.27627233,Chevrolet_Metro
+Chevrolet,Impala,Passenger,3.4,180.0,110.5,73.0,200.0,3.389,17.0,27.0,2011-06-18,71.83803944,Chevrolet_Impala
+Chrysler,Sebring Coupe,Passenger,2.5,163.0,103.7,69.7,190.9,2.967,15.9,24.0,2012-01-16,65.95718396,Chrysler_Sebring Coupe
+Chrysler,Sebring Conv.,Passenger,2.5,168.0,106.0,69.2,193.0,3.332,16.0,24.0,2011-11-17,69.52135505,Chrysler_Sebring Conv.
+Chrysler,Concorde,Passenger,2.7,200.0,113.0,74.4,209.1,3.452,17.0,26.0,2012-06-06,80.02378204,Chrysler_Concorde
+Chrysler,Cirrus,Passenger,2.0,132.0,108.0,71.0,186.0,2.911,16.0,27.0,2011-10-06,53.56619987,Chrysler_Cirrus
+Chrysler,LHS,Passenger,3.5,253.0,113.0,74.4,207.7,3.564,17.0,23.0,2012-05-08,101.3292807,Chrysler_LHS
+Chrysler,Town & Country,Car,,,,,,,,,2011-07-13,,Chrysler_Town & Country
+Chrysler,300M,Passenger,3.5,253.0,113.0,74.4,197.8,3.567,17.0,23.0,2012-02-10,101.6552441,Chrysler_300M
+Dodge,Neon,Passenger,2.0,132.0,105.0,74.4,174.4,2.567,12.5,29.0,2011-12-12,52.08489875,Dodge_Neon
+Dodge,Avenger,Passenger,2.5,163.0,103.7,69.1,190.2,2.879,15.9,24.0,2012-07-01,65.65050834,Dodge_Avenger
+Dodge,Stratus,Passenger,2.5,168.0,108.0,71.0,186.0,3.058,16.0,24.0,2011-10-31,67.87610784,Dodge_Stratus
+Dodge,Intrepid,Passenger,2.7,202.0,113.0,74.7,203.7,3.489,17.0,,2012-06-02,80.83147017,Dodge_Intrepid
+Dodge,Viper,Passenger,8.0,450.0,96.2,75.7,176.7,3.375,19.0,16.0,2011-08-07,188.144323,Dodge_Viper
+Dodge,Ram Pickup,Car,5.2,230.0,138.7,79.3,224.2,4.47,26.0,17.0,2012-03-06,90.21170005,Dodge_Ram Pickup
+Dodge,Ram Wagon,Car,3.9,175.0,109.6,78.8,192.6,4.245,32.0,15.0,2012-01-06,71.13529161,Dodge_Ram Wagon
+Dodge,Ram Van,Car,3.9,175.0,127.2,78.8,208.5,4.298,32.0,16.0,2012-07-26,70.07832154,Dodge_Ram Van
+Dodge,Dakota,Car,2.5,120.0,131.0,71.5,215.0,3.557,22.0,19.0,2011-11-25,49.64500177,Dodge_Dakota
+Dodge,Durango,Car,5.2,230.0,115.7,71.7,193.5,4.394,25.0,17.0,2012-06-27,92.85412522,Dodge_Durango
+Dodge,Caravan,Car,2.4,150.0,113.3,76.8,186.3,3.533,20.0,24.0,2011-09-01,61.22700031,Dodge_Caravan
+Ford,Escort,Passenger,2.0,110.0,98.4,67.0,174.7,2.468,12.7,30.0,2012-03-31,44.08370946,Ford_Escort
+Ford,Mustang,Passenger,3.8,190.0,101.3,73.1,183.2,3.203,15.7,24.0,2012-01-31,76.50918456,Ford_Mustang
+Ford,Contour,Passenger,2.5,170.0,106.5,69.1,184.6,2.769,15.0,25.0,2012-08-20,67.35101072,Ford_Contour
+Ford,Taurus,Passenger,3.0,155.0,108.5,73.0,197.6,3.368,16.0,24.0,2011-12-20,62.5037395,Ford_Taurus
+Ford,Focus,Passenger,2.0,107.0,103.0,66.9,174.8,2.564,13.2,30.0,2012-07-22,43.11713201,Ford_Focus
+Ford,Crown Victoria,Passenger,4.6,200.0,114.7,78.2,212.0,3.908,19.0,21.0,2011-09-26,80.49953671,Ford_Crown Victoria
+Ford,Explorer,Car,4.0,210.0,111.6,70.2,190.7,3.876,21.0,19.0,2012-04-25,87.63549578,Ford_Explorer
+Ford,Windstar,Car,3.0,150.0,120.7,76.6,200.9,3.761,26.0,21.0,2012-02-25,62.09504839,Ford_Windstar
+Ford,Expedition,Car,4.6,240.0,119.0,78.7,204.6,4.808,26.0,16.0,2012-09-14,100.0248023,Ford_Expedition
+Ford,Ranger,Car,2.5,119.0,117.5,69.4,200.7,3.086,20.0,23.0,2012-01-14,47.38953131,Ford_Ranger
+Ford,F-Series,Car,4.6,220.0,138.5,79.1,224.5,4.241,25.1,18.0,2012-08-16,89.40193473,Ford_F-Series
+Honda,Civic,Passenger,1.6,106.0,103.2,67.1,175.1,2.339,11.9,32.0,2011-10-21,42.87909734,Honda_Civic
+Honda,Accord,Passenger,2.3,135.0,106.9,70.3,188.8,2.932,17.1,27.0,2012-05-20,54.26954829,Honda_Accord
+Honda,CR-V,Car,2.0,146.0,103.2,68.9,177.6,3.219,15.3,24.0,2012-03-21,60.08796662,Honda_CR-V
+Honda,Passport,Car,3.2,205.0,106.4,70.4,178.2,3.857,21.1,19.0,2012-10-09,83.6025008,Honda_Passport
+Honda,Odyssey,Car,3.5,210.0,118.1,75.6,201.2,4.288,20.0,23.0,2012-02-08,85.21769134,Honda_Odyssey
+Hyundai,Accent,Passenger,1.5,92.0,96.1,65.7,166.7,2.24,11.9,31.0,2012-09-10,36.67228358,Hyundai_Accent
+Hyundai,Elantra,Passenger,2.0,140.0,100.4,66.9,174.0,2.626,14.5,27.0,2011-11-15,54.59004516,Hyundai_Elantra
+Hyundai,Sonata,Passenger,2.4,148.0,106.3,71.6,185.4,3.072,17.2,25.0,2012-06-14,58.758249,Hyundai_Sonata
+Infiniti,I30,Passenger,3.0,227.0,108.3,70.2,193.7,3.342,18.5,25.0,2012-04-15,92.43688923,Infiniti_I30
+Jaguar,S-Type,Passenger,3.0,240.0,114.5,71.6,191.3,3.65,18.4,21.0,2012-11-03,102.1789848,Jaguar_S-Type
+Jeep,Wrangler,Car,2.5,120.0,93.4,66.7,152.0,3.045,19.0,17.0,2012-03-04,48.67289791,Jeep_Wrangler
+Jeep,Cherokee,Car,4.0,190.0,101.4,69.4,167.5,3.194,20.0,20.0,2012-10-05,76.58443962,Jeep_Cherokee
+Jeep,Grand Cherokee,Car,4.0,195.0,105.9,72.3,181.5,3.88,20.5,19.0,2011-12-10,80.38777912,Jeep_Grand Cherokee
+Lexus,ES300,Passenger,3.0,210.0,105.1,70.5,190.2,3.373,18.5,23.0,2012-07-09,87.21100104,Lexus_ES300
+Lexus,GS300,Passenger,3.0,225.0,110.2,70.9,189.2,3.638,19.8,23.0,2012-05-10,94.9466984,Lexus_GS300
+Lexus,GS400,Passenger,4.0,300.0,110.2,70.9,189.2,3.693,19.8,21.0,2012-11-28,125.0133574,Lexus_GS400
+Lexus,LS400,Passenger,4.0,290.0,112.2,72.0,196.7,3.89,22.5,22.0,2012-03-29,124.4467163,Lexus_LS400
+Lexus,LX470,Car,4.7,230.0,112.2,76.4,192.5,5.401,25.4,15.0,2012-10-30,105.760458,Lexus_LX470
+Lexus,RX300,Car,3.0,220.0,103.0,71.5,180.1,3.9,17.2,21.0,2012-01-04,91.94380156,Lexus_RX300
+Lincoln,Continental,Passenger,4.6,275.0,109.0,73.6,208.5,3.868,20.0,22.0,2012-08-03,113.5402069,Lincoln_Continental
+Lincoln,Town car,Passenger,4.6,215.0,117.7,78.2,215.3,4.121,19.0,21.0,2012-06-04,93.9579169,Lincoln_Town car
+Lincoln,Navigator,Car,5.4,300.0,119.0,79.9,204.8,5.393,30.0,15.0,2012-12-23,123.9720467,Lincoln_Navigator
+Mitsubishi,Mirage,Passenger,1.8,113.0,98.4,66.5,173.6,2.25,13.2,30.0,2012-04-23,45.83218056,Mitsubishi_Mirage
+Mitsubishi,Eclipse,Passenger,2.4,154.0,100.8,68.9,175.4,2.91,15.9,24.0,2012-11-24,62.44196235,Mitsubishi_Eclipse
+Mitsubishi,Galant,Passenger,2.4,145.0,103.7,68.5,187.8,2.945,16.3,25.0,2012-01-29,58.60677292,Mitsubishi_Galant
+Mitsubishi,Diamante,Passenger,3.5,210.0,107.1,70.3,194.1,3.443,19.0,22.0,2012-08-28,84.83077858,Mitsubishi_Diamante
+Mitsubishi,3000GT,Passenger,3.0,161.0,97.2,72.4,180.3,3.131,19.8,21.0,2012-06-29,67.54415494,Mitsubishi_3000GT
+Mitsubishi,Montero,Car,3.5,200.0,107.3,69.9,186.6,4.52,24.3,18.0,2012-01-17,83.92081504,Mitsubishi_Montero
+Mitsubishi,Montero Sport,Car,3.0,173.0,107.3,66.7,178.3,3.51,19.5,20.0,2012-05-18,70.66094179,Mitsubishi_Montero Sport
+Mercury,Mystique,Passenger,2.0,125.0,106.5,69.1,184.8,2.769,15.0,28.0,2012-12-19,50.99774761,Mercury_Mystique
+Mercury,Cougar,Passenger,2.0,125.0,106.4,69.6,185.0,2.892,16.0,30.0,2012-02-23,51.11347426,Mercury_Cougar
+Mercury,Sable,Passenger,3.0,153.0,108.5,73.0,199.7,3.379,16.0,24.0,2012-09-22,62.23996663,Mercury_Sable
+Mercury,Grand Marquis,Passenger,4.6,200.0,114.7,78.2,212.0,3.958,19.0,21.0,2012-07-24,80.65769646,Mercury_Grand Marquis
+Mercury,Mountaineer,Car,4.0,210.0,111.6,70.2,190.1,3.876,21.0,18.0,2008-02-13,85.94974425,Mercury_Mountaineer
+Mercury,Villager,Car,3.3,170.0,112.2,74.9,194.7,3.944,20.0,21.0,2009-10-20,69.671461,Mercury_Villager
+Mercedes-B,C-Class,Passenger,2.3,185.0,105.9,67.7,177.4,3.25,16.4,26.0,2011-04-24,78.28073088,Mercedes-B_C-Class
+Mercedes-B,E-Class,Passenger,3.2,221.0,111.5,70.8,189.4,3.823,21.1,25.0,2011-07-12,98.2497375,Mercedes-B_E-Class
+Mercedes-B,S-Class,Passenger,4.3,275.0,121.5,73.1,203.1,4.133,23.2,21.0,2011-06-13,125.2738757,Mercedes-B_S-Class
+Mercedes-B,SL-Class,Passenger,5.0,302.0,99.0,71.3,177.1,4.125,21.1,20.0,2011-03-17,139.9822936,Mercedes-B_SL-Class
+Mercedes-B,SLK,Passenger,2.3,190.0,94.5,67.5,157.9,3.055,15.9,26.0,2011-01-16,82.80736193,Mercedes-B_SLK
+Mercedes-B,SLK230,Passenger,2.3,185.0,94.5,67.5,157.3,2.975,14.0,27.0,2011-08-06,81.84896924,Mercedes-B_SLK230
+Mercedes-B,CLK Coupe,Passenger,3.2,215.0,105.9,67.8,180.3,3.213,16.4,26.0,2011-07-08,92.92579177,Mercedes-B_CLK Coupe
+Mercedes-B,CL500,Passenger,5.0,302.0,113.6,73.1,196.6,4.115,23.2,20.0,2011-04-11,141.1009845,Mercedes-B_CL500
+Mercedes-B,M-Class,Car,3.2,215.0,111.0,72.2,180.6,4.387,19.0,20.0,2011-02-10,90.49553213,Mercedes-B_M-Class
+Nissan,Sentra,Passenger,1.8,126.0,99.8,67.3,177.5,2.593,13.2,30.0,2011-08-31,50.24197791,Nissan_Sentra
+Nissan,Altima,Passenger,2.4,155.0,103.1,69.1,183.5,3.012,15.9,25.0,2011-08-02,63.31372783,Nissan_Altima
+Nissan,Maxima,Passenger,3.0,222.0,108.3,70.3,190.5,3.294,18.5,25.0,2011-05-06,89.42782031,Nissan_Maxima
+Nissan,Quest,Car,3.3,170.0,112.2,74.9,194.8,3.991,20.0,21.0,2011-03-07,71.17166413,Nissan_Quest
+Nissan,Pathfinder,Car,3.3,170.0,106.3,71.7,182.6,3.947,21.0,19.0,2011-09-25,72.29035508,Nissan_Pathfinder
+Nissan,Xterra,Car,3.3,170.0,104.3,70.4,178.0,3.821,19.4,18.0,2011-01-24,69.78294434,Nissan_Xterra
+Nissan,Frontier,Car,3.3,170.0,116.1,66.5,196.1,3.217,19.4,18.0,2011-08-27,67.88927059,Nissan_Frontier
+Oldsmobile,Cutlass,Passenger,3.1,150.0,107.0,69.4,192.0,3.102,15.2,25.0,2011-05-31,60.86161155,Oldsmobile_Cutlass
+Oldsmobile,Intrigue,Passenger,3.5,215.0,109.0,73.6,195.9,3.455,18.0,,2011-04-01,86.27252291,Oldsmobile_Intrigue
+Oldsmobile,Alero,Passenger,2.4,150.0,107.0,70.1,186.7,2.958,15.0,27.0,2009-10-20,60.72744693,Oldsmobile_Alero
+Oldsmobile,Aurora,Passenger,4.0,250.0,113.8,74.4,205.4,3.967,18.5,22.0,2011-02-18,103.4416926,Oldsmobile_Aurora
+Oldsmobile,Bravada,Car,4.3,190.0,107.0,67.8,181.2,4.068,17.5,19.0,2011-09-21,80.51167259,Oldsmobile_Bravada
+Oldsmobile,Silhouette,Car,3.4,185.0,120.0,72.2,201.4,3.948,25.0,22.0,2011-06-25,76.09657042,Oldsmobile_Silhouette
+Plymouth,Neon,Passenger,2.0,132.0,105.0,74.4,174.4,2.559,12.5,29.0,2011-04-26,52.08489875,Plymouth_Neon
+Plymouth,Breeze,Passenger,2.0,132.0,108.0,71.0,186.3,2.942,16.0,27.0,2011-11-14,53.41189767,Plymouth_Breeze
+Plymouth,Voyager,Car,2.4,150.0,113.3,76.8,186.3,3.528,20.0,24.0,2011-04-24,60.95118512,Plymouth_Voyager
+Plymouth,Prowler,Passenger,3.5,253.0,113.3,76.3,165.4,2.85,12.0,21.0,2012-06-27,106.9844563,Plymouth_Prowler
+Pontiac,Sunfire,Passenger,2.4,150.0,104.1,68.4,181.9,2.906,15.0,27.0,2012-01-25,62.0158703,Pontiac_Sunfire
+Pontiac,Grand Am,Passenger,3.4,175.0,107.0,70.4,186.3,3.091,15.2,25.0,2012-11-26,70.38973726,Pontiac_Grand Am
+Pontiac,Firebird,Passenger,3.8,200.0,101.1,74.5,193.4,3.492,16.8,25.0,2012-06-16,81.49272616,Pontiac_Firebird
+Pontiac,Grand Prix,Passenger,3.8,195.0,110.5,72.7,196.5,3.396,18.0,25.0,2012-10-15,78.31816813,Pontiac_Grand Prix
+Pontiac,Bonneville,Passenger,3.8,205.0,112.2,72.6,202.5,3.59,17.5,24.0,2011-05-18,82.6613556,Pontiac_Bonneville
+Pontiac,Montana,Car,3.4,185.0,120.0,72.7,201.3,3.942,25.0,23.0,2012-07-22,76.20843952,Pontiac_Montana
+Porsche,Boxter,Passenger,2.7,217.0,95.2,70.1,171.0,2.778,17.0,22.0,2012-02-19,93.4373307,Porsche_Boxter
+Porsche,Carrera Coupe,Passenger,3.4,300.0,92.6,69.5,174.5,3.032,17.0,21.0,2012-12-21,134.3909754,Porsche_Carrera Coupe
+Porsche,Carrera Cabrio,Passenger,3.4,300.0,92.6,69.5,174.5,3.075,17.0,23.0,2011-07-11,135.9147096,Porsche_Carrera Cabrio
+Saab,5-Sep,Passenger,2.3,170.0,106.4,70.6,189.2,3.28,18.5,23.0,2012-11-09,73.50377819,Saab_5-Sep
+Saab,3-Sep,Passenger,2.0,185.0,102.6,67.4,182.2,2.99,16.9,23.0,2011-06-12,76.02304771,Saab_3-Sep
+Saturn,SL,Passenger,1.9,100.0,102.4,66.4,176.9,2.332,12.1,33.0,2012-08-16,39.98642475,Saturn_SL
+Saturn,SC,Passenger,1.9,100.0,102.4,66.4,180.0,2.367,12.1,33.0,2011-03-16,40.70007242,Saturn_SC
+Saturn,SW,Passenger,1.9,124.0,102.4,66.4,176.9,2.452,12.1,31.0,2011-01-15,49.86577367,Saturn_SW
+Saturn,LW,Passenger,2.2,137.0,106.5,69.0,190.4,3.075,13.1,27.0,2011-08-05,56.29524304,Saturn_LW
+Saturn,LS,Passenger,2.2,137.0,106.5,69.0,190.4,2.91,13.1,28.0,2012-12-04,54.81972825,Saturn_LS
+Subaru,Outback,Passenger,2.5,165.0,103.5,67.5,185.8,3.415,16.9,25.0,2011-07-07,67.7659076,Subaru_Outback
+Subaru,Forester,Car,2.5,165.0,99.4,68.3,175.2,3.125,15.9,24.0,2012-09-10,66.76294331,Subaru_Forester
+Toyota,Corolla,Passenger,1.8,120.0,97.0,66.7,174.0,2.42,13.2,33.0,2011-04-11,47.96897242,Toyota_Corolla
+Toyota,Camry,Passenger,2.2,133.0,105.2,70.1,188.5,2.998,18.5,27.0,2011-02-10,54.37241965,Toyota_Camry
+Toyota,Avalon,Passenger,3.0,210.0,107.1,71.7,191.9,3.417,18.5,26.0,2011-08-31,84.91189826,Toyota_Avalon
+Toyota,Celica,Passenger,1.8,140.0,102.4,68.3,170.5,2.425,14.5,31.0,2012-12-29,56.49603034,Toyota_Celica
+Toyota,Tacoma,Car,2.4,142.0,103.3,66.5,178.7,2.58,15.1,23.0,2011-08-01,55.29711658,Toyota_Tacoma
+Toyota,Sienna,Car,3.0,194.0,114.2,73.4,193.5,3.759,20.9,22.0,2012-10-05,78.02721947,Toyota_Sienna
+Toyota,RAV4,Car,2.0,127.0,94.9,66.7,163.8,2.668,15.3,27.0,2011-05-06,51.95510887,Toyota_RAV4
+Toyota,4Runner,Car,2.7,150.0,105.3,66.5,183.3,3.44,18.5,23.0,2011-03-07,62.35557713,Toyota_4Runner
+Toyota,Land Cruiser,Car,4.7,230.0,112.2,76.4,192.5,5.115,25.4,15.0,2011-09-25,102.5289842,Toyota_Land Cruiser
+Volkswagen,Golf,Passenger,2.0,115.0,98.9,68.3,163.3,2.767,14.5,26.0,2011-01-24,46.94387676,Volkswagen_Golf
+Volkswagen,Jetta,Passenger,2.0,115.0,98.9,68.3,172.3,2.853,14.5,26.0,2011-08-27,47.63823666,Volkswagen_Jetta
+Volkswagen,Passat,Passenger,1.8,150.0,106.4,68.5,184.1,3.043,16.4,27.0,2012-10-30,61.70138136,Volkswagen_Passat
+Volkswagen,Cabrio,Passenger,2.0,115.0,97.4,66.7,160.4,3.079,13.7,26.0,2011-05-31,48.90737225,Volkswagen_Cabrio
+Volkswagen,GTI,Passenger,2.0,115.0,98.9,68.3,163.3,2.762,14.6,26.0,2011-04-01,47.94684106,Volkswagen_GTI
+Volkswagen,Beetle,Passenger,2.0,115.0,98.9,67.9,161.1,2.769,14.5,26.0,2011-10-20,47.32963226,Volkswagen_Beetle
+Volvo,S40,Passenger,1.9,160.0,100.5,67.6,176.6,2.998,15.8,25.0,2011-02-18,66.1130568,Volvo_S40
+Volvo,V40,Passenger,1.9,160.0,100.5,67.6,176.6,3.042,15.8,25.0,2011-09-21,66.4988123,Volvo_V40
+Volvo,S70,Passenger,2.4,168.0,104.9,69.3,185.9,3.208,17.9,25.0,2012-11-24,70.65449545,Volvo_S70
+Volvo,V70,Passenger,2.4,168.0,104.9,69.3,186.2,3.259,17.9,25.0,2011-06-25,71.1559776,Volvo_V70
+Volvo,C70,Passenger,2.3,236.0,104.9,71.5,185.7,3.601,18.5,23.0,2011-04-26,101.6233572,Volvo_C70
+Volvo,S80,Passenger,2.9,201.0,109.9,72.1,189.8,3.6,21.1,24.0,2011-11-14,85.73565451,Volvo_S80
